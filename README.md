@@ -1,5 +1,4 @@
 # Task-3-Sales-Performance-Dashboard
-# Sales Performance Dashboard
 
 ## Project Overview
 
